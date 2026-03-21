@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carlos Murillo
+# 👋 Hi, I'm Carlos
 
 Aspiring Software Engineer focused on building practical, real-world applications.
 Currently developing my skills in full-stack development with a focus on clean code and problem-solving.
