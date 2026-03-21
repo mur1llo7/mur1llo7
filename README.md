@@ -51,12 +51,7 @@ Currently working on:
 
 ---
 
-## Contact
+## Fun facts
 
-* GitHub: https://github.com/mur1llo7
-
----
-
-## Notes
-
+I’m building my journey from zero to Software Engineer
 Focused on consistent improvement and building projects that reflect real-world use cases.
