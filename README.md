@@ -53,5 +53,5 @@ Currently working on:
 
 ## Fun facts
 
-I’m building my journey from zero to Software Engineer
-Focused on consistent improvement and building projects that reflect real-world use cases.
+* I’m building my journey from zero to Software Engineer.
+* Focused on consistent improvement and building projects that reflect real-world use cases.
