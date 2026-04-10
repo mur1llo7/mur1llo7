@@ -20,10 +20,11 @@ Currently developing my skills in full-stack development with a focus on clean c
 
 * HTML, CSS, JavaScript
 * React (in progress)
+* TypeScript
 
 **Backend**
 
-* Python (in progress)
+* NodeJS with Express (in progress)
 * REST APIs (learning)
 
 **Tools**
@@ -37,8 +38,7 @@ Currently developing my skills in full-stack development with a focus on clean c
 
 Currently working on:
 
-* Task Management App (To-Do System)
-* Weather App
+* Weather App (Done)
 * Business Automation System (early-stage concept)
 
 ---
