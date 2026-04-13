@@ -9,7 +9,7 @@ Currently developing my skills in full-stack development with a focus on clean c
 
 * Building real-world projects to simulate production environments
 * Strengthening JavaScript fundamentals
-* Learning React and backend development with Python
+* Learning React and backend development with NodeJS - Express
 * Understanding how APIs and systems work
 
 ---
@@ -19,8 +19,9 @@ Currently developing my skills in full-stack development with a focus on clean c
 **Frontend**
 
 * HTML, CSS, JavaScript
-* React (in progress)
+* React 
 * TypeScript
+* Tailwind CSS (In course)
 
 **Backend**
 
@@ -31,6 +32,8 @@ Currently developing my skills in full-stack development with a focus on clean c
 
 * Git & GitHub
 * VS Code
+* Figma
+* Requestly
 
 ---
 
@@ -39,6 +42,7 @@ Currently developing my skills in full-stack development with a focus on clean c
 Currently working on:
 
 * Weather App (Done)
+* Budget Tracker (Planning)
 * Business Automation System (early-stage concept)
 
 ---
