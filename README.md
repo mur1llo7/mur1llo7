@@ -1,61 +1,45 @@
-# 👋 Hi, I'm Carlos
+## Hi, I'm Daniel 
 
-Aspiring Software Engineer focused on building practical, real-world applications.
-Currently developing my skills in full-stack development with a focus on clean code and problem-solving.
+Full stack developer focused on **JavaScript, React and Node.js**. Six years
+running my own print and design business before moving into software — which
+means I think about the user and the business outcome, not just the code.
 
----
+Currently completing the **IBM Full Stack Software Development** certification
+and building projects to deepen my backend and TypeScript skills.
 
-##  Current Focus
-
-* Building real-world projects to simulate production environments
-* Strengthening JavaScript fundamentals
-* Learning React and backend development with NodeJS - Express
-* Understanding how APIs and systems work
+> Spanish (native) / English
 
 ---
 
-##  Tech Stack
+### Tech
 
-**Frontend**
+**Comfortable with**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-* HTML, CSS, JavaScript
-* React 
-* TypeScript
-* Tailwind CSS (In course)
+**Currently learning**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Backend**
-
-* NodeJS with Express (in progress)
-* REST APIs (learning)
-
-**Tools**
-
-* Git & GitHub
-* VS Code
-* Figma
-* Requestly
 
 ---
 
-## Projects
+### Projects
 
-Currently working on:
+| Project | Stack | Links |
+|---|---|---|
+| **Notes API** — RESTful API with full CRUD, input validation and structured error handling | Node.js · Express | [Code](URL) · [Live](URL) |
+| **Budget Tracker** — Expense tracker with category breakdowns and interactive charts | React · Vite · Recharts | [Code](URL) · [Live](URL) |
+| **Weather App** — Weather client with proper loading and error states | React · REST API | [Code](URL) · [Live](URL) |
 
-* Weather App (Done)
-* Budget Tracker (Planning)
-* Business Automation System (early-stage concept)
-
----
-
-## Goals
-
-* Become job-ready as a Junior Software Engineer
-* Build scalable and maintainable applications
-* Contribute to real-world development teams
+> Live demos run on free-tier hosting — the API may take ~45s to wake on first request.
 
 ---
-
-## Fun facts
-
-* I’m building my journey from zero to Software Engineer.
-* Focused on consistent improvement and building projects that reflect real-world use cases.
