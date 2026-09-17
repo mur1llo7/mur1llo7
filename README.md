@@ -41,9 +41,9 @@ and building projects to deepen my backend and TypeScript skills.
 
 | Project | Stack | Links |
 |---|---|---|
-| **Notes API** — RESTful API with full CRUD, input validation and structured error handling | Node.js · Express | [Code](URL) · [Live](URL) |
-| **Budget Tracker** — Expense tracker with category breakdowns and interactive charts | React · Vite · Recharts | [Code](URL) · [Live](URL) |
-| **Weather App** — Weather client with proper loading and error states | React · REST API | [Code](URL) · [Live](URL) |
+| **Notes API** — RESTful API with full CRUD, input validation and structured error handling | Node.js · Express | [Code](https://github.com/mur1llo7/notes-api) · [Live](https://notes-api-vfz0.onrender.com/) |
+| **Budget Tracker** — Expense tracker with category breakdowns and interactive charts | React · Vite · Recharts | [Code](https://github.com/mur1llo7/budget-tracker) · [Live](https://budget-tracker-phi-peach.vercel.app/) |
+| **Weather App** — Weather client with proper loading and error states | React · REST API | [Code](https://github.com/mur1llo7/weather-app) · [Live](https://weather-app-azure-ten-43.vercel.app/) |
 
 > Live demos run on free-tier hosting — the API may take ~45s to wake on first request.
 
